@@ -8,7 +8,7 @@ Registro para usar la API de la Hackathon:
 
 - 🎁 PREMIOS para los 5 primeros:
 
-1º - 🥇 ⌨️ Keychrone hasta 155$/155€ en Redbubble/PayPal (155€ - gastos)
+1º - 🥇 ⌨️ Keychron hasta 155$/155€ en Redbubble/PayPal (155€ - gastos)
 2º - 🥈 50€ en RedBubble
 3º - 🥉 25€ en RedBubble
 4º - 📚 3x Libros de midudev
