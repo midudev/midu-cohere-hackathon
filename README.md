@@ -4,15 +4,14 @@ Registro para usar la API de la Hackathon:
 [https://midu.link/ia](https://midu.link/ia)
 
 **Empieza el 24 de enero**
-- 📅 Fecha límite -> 7 de febrero en Twitch.
+📅 Fecha límite -> 7 de febrero en Twitch.
+🎁 PREMIOS para los 5 primeros:
 
-- 🎁 PREMIOS para los 5 primeros:
-
-1º - 🥇 ⌨️ Keychron hasta 155$/155€ en Redbubble/PayPal (155€ - gastos)
-2º - 🥈 50€ en RedBubble
-3º - 🥉 25€ en RedBubble
-4º - 📚 3x Libros de midudev
-5º - 📘 1x Libro de Descubre Svelte
+* 1º - 🥇 ⌨️ Keychron hasta 155$/155€ en Redbubble/PayPal (155€ - gastos)
+* 2º - 🥈 50€ en RedBubble
+* 3º - 🥉 25€ en RedBubble
+* 4º - 📚 3x Libros de midudev
+* 5º - 📘 1x Libro de Descubre Svelte
 
 _Gracias a SeryiUwu que ha patrocinado 50€ de premio para la primera posición_
 
