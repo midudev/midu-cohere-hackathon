@@ -1,0 +1,17 @@
+{
+  "name": "midu-hackathon-cohere",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cohere-ai": "5.0.2",
+    "ora": "6.1.2"
+  }
+}
