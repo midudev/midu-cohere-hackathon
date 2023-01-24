@@ -1,4 +1,7 @@
-# HACKATHON ENERO 2023 - COHERE - INTELIGENCIA ARTIFICIAL
+## Hackathon Enero 2023 - Cohere - Inteligencia Artificial
+
+Registro para usar la API de la Hackathon:
+[https://midu.link/ia](https://midu.link/ia)
 
 **Empieza el 24 de enero**
 - 📅 Fecha límite -> 7 de febrero en Twitch.
@@ -14,7 +17,7 @@
 _Gracias a SeryiUwu que ha patrocinado 50€ de premio para la primera posición_
 
 **⚠️ Requisitos**
-[1] Registrarse en Cohere -> https://midu.link/ia
+[1] Registrarse en Cohere -> [https://midu.link/ia](https://midu.link/ia)
 [2] Crea un pequeño producto que use la API de Cohere. ¡Puede ser lo que quieras!
 [3] Subir tu código en GitHub, que sea público y tengas la etiqueta "midudev-cohere-2023" para el 7 de febrero.
 [4] La app/web debe estar desplegada en algún sitio accesible.
