@@ -1,4 +1,4 @@
-🌤️ HACKATHON ENERO 2023 - COHERE - INTELIGENCIA ARTIFICIAL 🚀
+# HACKATHON ENERO 2023 - COHERE - INTELIGENCIA ARTIFICIAL
 
 **Empieza el 24 de enero**
 - 📅 Fecha límite -> 7 de febrero en Twitch.
