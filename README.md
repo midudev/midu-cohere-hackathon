@@ -13,6 +13,7 @@ Registro para usar la API de la Hackathon:
 - 4º - 📚 3x Libros de midudev
 - 5º - 📘 1x Libro de Descubre Svelte
 
+_Gracias a Ciensprog que ha patrocinado 300$ de premio para las tres primeras posiciones_
 _Gracias a SeryiUwu que ha patrocinado 50€ de premio para la primera posición_
 
 **⚠️ Requisitos**
