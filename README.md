@@ -7,20 +7,21 @@ Registro para usar la API de la Hackathon:
 📅 Fecha límite -> 7 de febrero en Twitch.
 🎁 PREMIOS para los 5 primeros:
 
-* 1º - 🥇 ⌨️ Keychron hasta 155$/155€ en Redbubble/PayPal (155€ - gastos)
-* 2º - 🥈 50€ en RedBubble
-* 3º - 🥉 25€ en RedBubble
-* 4º - 📚 3x Libros de midudev
-* 5º - 📘 1x Libro de Descubre Svelte
+- 1º - 🥇 ⌨️ Keychron con un valor de hasta 360$/360€ en Redbubble/PayPal (360€ - gastos)
+- 2º - 🥈 125€ en RedBubble
+- 3º - 🥉 50€ en RedBubble
+- 4º - 📚 3x Libros de midudev
+- 5º - 📘 1x Libro de Descubre Svelte
 
 _Gracias a SeryiUwu que ha patrocinado 50€ de premio para la primera posición_
 
 **⚠️ Requisitos**
-* [1] Registrarse en Cohere -> [https://midu.link/ia](https://midu.link/ia)
-* [2] Crea un pequeño producto que use la API de Cohere. ¡Puede ser lo que quieras!
-* [3] Subir tu código en GitHub, que sea público y tengas la etiqueta "midudev-cohere-2023" para el 7 de febrero.
-* [4] La app/web debe estar desplegada en algún sitio accesible.
-* [5] ¡Y enviar el repositorio + deploy en el hilo de Discord antes de la fecha limite 📅!
+
+1. Registrarse en Cohere -> [https://midu.link/ia](https://midu.link/ia)
+2. Crea un pequeño producto que use la API de Cohere. ¡Puede ser lo que quieras!
+3. Subir tu código en GitHub, que sea público y tengas la etiqueta "midudev-cohere-2023" para el 7 de febrero.
+4. La app/web debe estar desplegada en algún sitio accesible.
+5. ¡Y enviar el repositorio + deploy en el hilo de Discord antes de la fecha limite 📅!
 
 **Votaciones**
 
