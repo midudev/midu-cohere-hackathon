@@ -3,9 +3,10 @@
 Registro para usar la API de la Hackathon:
 [https://midu.link/ia](https://midu.link/ia)
 
-**Empieza el 24 de enero**
+**Empieza el 24 de enero**<br />
 📅 Fecha límite -> 7 de febrero en Twitch.
-🎁 PREMIOS para los 5 primeros:
+
+**🎁 PREMIOS para los 5 primeros:**
 
 - 1º - 🥇 ⌨️ Keychron con un valor de hasta 360$/360€ en Redbubble/PayPal (360€ - gastos)
 - 2º - 🥈 125€ en RedBubble
